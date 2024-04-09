@@ -20,6 +20,4 @@ steps:
     location: 'Australia Central'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/HashimsGitHub/ARMPipeline-repo/main/create_web_app/azuredeploy.json?token=GHSAT0AAAAAACQXOBIUI7WRLBSXF7STFDEGZQU2Y7Q'
-    overrideParameters: '-projectName ARMPipelineProj'
     deploymentMode: 'Incremental'
-    deploymentName: 'DeployPipelineTemplate'
